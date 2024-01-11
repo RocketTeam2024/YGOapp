@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## nvm use v18.10
+
+## npm i -g @angular/cli@16.2.11
+
+## Angular CLI: 16.2.11
+## Node: 18.10.0
+## Package Manager: npm 8.19.2
+
+## ng build --configuration production
+## ng build --configuration=stage
